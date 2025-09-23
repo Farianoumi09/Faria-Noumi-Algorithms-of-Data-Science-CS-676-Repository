@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+textblob
+trafilatura
+lxml
+urllib3
