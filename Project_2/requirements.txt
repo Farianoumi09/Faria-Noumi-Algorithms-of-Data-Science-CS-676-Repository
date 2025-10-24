@@ -1,3 +1,3 @@
 streamlit
-tinytoupe
 textblob
+git+https://github.com/microsoft/TinyTroupe.git
