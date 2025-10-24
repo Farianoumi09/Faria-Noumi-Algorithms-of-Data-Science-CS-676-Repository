@@ -1,19 +1,20 @@
 
----
+# Mock TinyTroupe Persona Simulator
 
-### **4. README.md**  
+## Overview
+This is a **mock version of TinyTroupe** for Deliverable 1. It allows you to simulate multiple AI personas, evaluate responses, and automatically save conversation history in Markdown files.
 
-```markdown
-# Project 2: Advanced TinyTroupe Persona Simulator
+## Features
+- Multi-persona conversation simulation
+- Adjustable number of conversation turns
+- Response evaluation (length + sentiment)
+- Automatic conversation history saved in `conversation_history/`
+- Ready to run in Streamlit
 
-This repository contains an advanced Streamlit app using TinyTroupe for multi-turn persona simulations and the corresponding technical report.
+## Installation
 
-## Contents
-- `app.py` - Streamlit app for advanced persona simulation.
-- `Deliverable1.md` - Technical report with installation, simulation results, and analysis.
-- `requirements.txt` - Python dependencies.
+1. Clone this repository:
 
-## How to Run
-1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/project_2.git
+git clone https://github.com/yourusername/MockTinyTroupe.git
+cd MockTinyTroupe
