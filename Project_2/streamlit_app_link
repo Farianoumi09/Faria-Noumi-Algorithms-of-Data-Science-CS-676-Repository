@@ -1,0 +1,14 @@
+# TinyTroupe Persona Simulator (Mock Implementation)
+
+**Note:** This app uses a mock implementation of TinyTroupe. The real TinyTroupe package is not currently available for Python 3.12, so we created a simulated version that mimics its functionality. This allows us to:
+
+- Explore multi-persona AI conversation simulation  
+- Evaluate responses and maintain conversation history  
+- Complete Deliverable 1 objectives without requiring the unavailable package  
+
+## Live App
+
+You can try the live Streamlit app here:  
+[Open the App](https://bookish-waffle-pjw9vrgr4vg62wxv-8501.app.github.dev/)
+
+**Important:** This link works **only while your GitHub Codespace is running**. Once the Codespace is stopped or closed, the link will become inactive. For a permanent public link, consider deploying via [Streamlit Cloud](https://share.streamlit.io).
