@@ -5,4 +5,3 @@
 
 ## 📄 Project Files
 - **Final Paper (PDF):** [cs676_2025fall_faria_noumi.tex.pdf](cs676_2025fall_faria_noumi.tex.pdf)
-- **LaTeX Source:** [cs676_2025fall_faria_noumi.tex](cs676_2025fall_faria_noumi.tex)
